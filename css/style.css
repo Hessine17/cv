@@ -1249,6 +1249,7 @@ ul.port-nav-list li a.active {
     height: 402px;
     background-color: white;
     margin-top: 40px;
+    margin-left: 20px;
     -webkit-border-radius: 15px;
     -moz-border-radius: 15px;
     border-radius: 15px;
