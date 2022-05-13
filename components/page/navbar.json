@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_page_navbars",
+  "info": {
+    "name": "navbar",
+    "icon": "align-left",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "logo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.logo"
+    },
+    "about": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.about"
+    },
+    "getapp": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.button"
+    }
+  }
+}

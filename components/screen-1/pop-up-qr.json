@@ -1,0 +1,43 @@
+{
+  "collectionName": "components_screen_1_pop_up_qrs",
+  "info": {
+    "name": "pop-up-qr",
+    "icon": "align-right"
+  },
+  "options": {},
+  "attributes": {
+    "image_qr": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false,
+      "pluginOptions": {}
+    },
+    "text_scan_me": {
+      "type": "string"
+    },
+    "qr_gif": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false,
+      "pluginOptions": {}
+    },
+    "content": {
+      "type": "richtext"
+    },
+    "text_live": {
+      "type": "text"
+    }
+  }
+}

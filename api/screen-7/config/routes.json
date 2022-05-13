@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/discover-buy",
+      "handler": "screen-7.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/discover-buy",
+      "handler": "screen-7.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/discover-buy",
+      "handler": "screen-7.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

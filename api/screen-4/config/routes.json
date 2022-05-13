@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/live-streaming",
+      "handler": "screen-4.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/live-streaming",
+      "handler": "screen-4.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/live-streaming",
+      "handler": "screen-4.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

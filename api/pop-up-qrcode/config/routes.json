@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/pop-up-qrcode",
+      "handler": "pop-up-qrcode.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/pop-up-qrcode",
+      "handler": "pop-up-qrcode.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/pop-up-qrcode",
+      "handler": "pop-up-qrcode.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

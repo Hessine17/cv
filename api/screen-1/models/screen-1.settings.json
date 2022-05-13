@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "screen_1s",
+  "info": {
+    "name": "hero",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "hero": {
+      "type": "dynamiczone",
+      "components": [
+        "shared.text",
+        "shared.image",
+        "shared.bloc-text",
+        "shared.button"
+      ]
+    }
+  }
+}

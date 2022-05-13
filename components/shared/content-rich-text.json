@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_shared_content_rich_texts",
+  "info": {
+    "name": "content-rich-text",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "content_rich_text": {
+      "type": "richtext"
+    }
+  }
+}

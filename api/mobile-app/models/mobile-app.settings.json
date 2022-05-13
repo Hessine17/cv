@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "mobile_apps",
+  "info": {
+    "name": "mobile-app"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "mobile_app": {
+      "type": "dynamiczone",
+      "components": [
+        "shared.link"
+      ]
+    }
+  }
+}

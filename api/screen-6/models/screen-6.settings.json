@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "screen_6s",
+  "info": {
+    "name": "request-meeting",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "screen_6": {
+      "type": "dynamiczone",
+      "components": [
+        "shared.multi-image",
+        "shared.button",
+        "shared.text"
+      ]
+    }
+  }
+}

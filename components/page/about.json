@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_page_abouts",
+  "info": {
+    "name": "about",
+    "icon": "anchor"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

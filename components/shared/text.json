@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_shared_texts",
+  "info": {
+    "name": "text",
+    "icon": "angle-double-down",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "string"
+    }
+  }
+}

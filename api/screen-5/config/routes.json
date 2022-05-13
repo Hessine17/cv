@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/promote-sell",
+      "handler": "screen-5.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/promote-sell",
+      "handler": "screen-5.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/promote-sell",
+      "handler": "screen-5.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

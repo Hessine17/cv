@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_screen_1_pop_up_videos",
+  "info": {
+    "name": "pop-up-video",
+    "icon": "air-freshener"
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false,
+      "pluginOptions": {}
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "screen_3s",
+  "info": {
+    "name": "app-overview",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "screen_3": {
+      "type": "dynamiczone",
+      "components": [
+        "shared.button",
+        "shared.text",
+        "shared.multi-image"
+      ]
+    }
+  }
+}

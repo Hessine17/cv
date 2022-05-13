@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_page_text_blocs",
+  "info": {
+    "name": "text-bloc",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}

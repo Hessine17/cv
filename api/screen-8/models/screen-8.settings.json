@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "screen_8s",
+  "info": {
+    "name": "curious-yet",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "screen_8": {
+      "type": "dynamiczone",
+      "components": [
+        "shared.button",
+        "shared.text",
+        "shared.logo"
+      ]
+    }
+  }
+}

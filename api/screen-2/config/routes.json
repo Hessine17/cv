@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/online-shopping",
+      "handler": "screen-2.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/online-shopping",
+      "handler": "screen-2.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/online-shopping",
+      "handler": "screen-2.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "footers",
+  "info": {
+    "name": "footer",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "footer": {
+      "type": "dynamiczone",
+      "components": [
+        "shared.logo",
+        "shared.link",
+        "shared.text",
+        "shared.content-rich-text"
+      ]
+    }
+  }
+}

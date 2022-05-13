@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/request-meeting",
+      "handler": "screen-6.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/request-meeting",
+      "handler": "screen-6.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/request-meeting",
+      "handler": "screen-6.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

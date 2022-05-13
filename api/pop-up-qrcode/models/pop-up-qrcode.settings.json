@@ -1,0 +1,23 @@
+{
+  "kind": "singleType",
+  "collectionName": "pop_up_qrcodes",
+  "info": {
+    "name": "pop-up-qrcode"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Pop_up_qrcode": {
+      "type": "dynamiczone",
+      "components": [
+        "shared.logo",
+        "shared.image",
+        "shared.text"
+      ]
+    }
+  }
+}

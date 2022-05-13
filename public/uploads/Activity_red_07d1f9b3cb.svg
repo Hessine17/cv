@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="Activity" transform="translate(-0.423 -0.423)">
+    <rect id="Rectangle_51" data-name="Rectangle 51" width="28" height="28" rx="4" transform="translate(0.423 0.423)" fill="#ef5a5a" opacity="0"/>
+    <g id="Group_44" data-name="Group 44" transform="translate(4.447 3.906)">
+      <g id="Iconly_Two-tone_Activity" data-name="Iconly/Two-tone/Activity" transform="translate(0 0)">
+        <g id="Activity-2" data-name="Activity">
+          <path id="Path_33966" d="M4.721,12.859,7.958,8.651l3.693,2.9,3.169-4.089" transform="translate(0.112 0.666)" fill="none" stroke="#ef5a5a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd" opacity="0.4"/>
+          <circle id="Ellipse_741" cx="2.079" cy="2.079" r="2.079" transform="translate(16.545)" fill="#ef5a5a"/>
+          <path id="Path" d="M13.839,1.458H5.978C2.72,1.458.7,3.765.7,7.022v8.744c0,3.257,1.98,5.555,5.278,5.555h9.307c3.257,0,5.278-2.3,5.278-5.555V8.151" transform="translate(-0.7 -0.547)" fill="none" stroke="#ef5a5a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

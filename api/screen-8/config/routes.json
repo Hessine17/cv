@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/curious-yet",
+      "handler": "screen-8.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/curious-yet",
+      "handler": "screen-8.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/curious-yet",
+      "handler": "screen-8.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
